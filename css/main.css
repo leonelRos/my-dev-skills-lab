@@ -1,0 +1,43 @@
+div {
+    justify-content: left;
+}
+.flex {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px 20px;
+    
+}
+
+header {
+    color: white;
+    background-color: rgb(148 195 128);
+    font-size: 30px;
+}
+#button2 {
+    background-color: rgb(222 102 105);
+    color: white;
+}
+
+td {
+    color: rgb(253 168 69);
+    margin: 3px;
+}
+
+#btn1{
+    display: inline-flex;
+    border: 3px solid rgb(148 195 128);
+    margin: 15px 15px;
+    font-size: 15px;
+}
+#btn2{
+    color: rgb(148 195 128);
+    border: 3px solid rgb(148 195 128);
+    display: inline-block;
+    cursor: pointer;
+    font-size: 15px;
+}
+table {
+    margin: 40px;
+}
+
